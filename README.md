@@ -2,6 +2,8 @@
 
 Building practical AI workflows, automation, and self-hosted systems from Cambridge.
 
+[riera.co.uk](https://riera.co.uk) is the entry point for my advisory work, and [cv.riera.co.uk](https://cv.riera.co.uk) is the quickest way to see my background.
+
 ## Current focus
 
 - AI coding agents, MCP workflows, and human-in-the-loop automation
@@ -26,4 +28,5 @@ Building practical AI workflows, automation, and self-hosted systems from Cambri
 
 ## More
 
-- Website: [riera.co.uk](https://riera.co.uk)
+- Advisory entry point: [riera.co.uk](https://riera.co.uk)
+- CV: [cv.riera.co.uk](https://cv.riera.co.uk)
