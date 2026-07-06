@@ -1,32 +1,31 @@
 # Joan Marc Riera Duocastella
 
-Building practical AI workflows, automation, and self-hosted systems from Cambridge.
+Infrastructure and platform leadership. Twenty years running production systems,
+most recently as Deputy Head of Operations at EMBL-EBI, Europe's bioinformatics
+institute: a 150 PB+ active archive, 4,500+ monitored servers, and identity
+services for 5,000+ users across six sites.
 
-[riera.co.uk](https://riera.co.uk) is the entry point for my advisory work, and [cv.riera.co.uk](https://cv.riera.co.uk) is the quickest way to see my background.
+**Now:** advisory and senior leadership work; Oxford Executive Finance Programme
+(Saïd, 2026); Google Professional Cloud Architect in progress. Member, BCS;
+CITP application under assessment.
 
-## Current focus
+## What I run
 
-- AI coding agents, MCP workflows, and human-in-the-loop automation
-- Self-hosted infrastructure and operational tooling
-- Playbooks, dashboards, and decision-support tools for technical leadership
+Everything below is production, self-hosted, behind a single identity provider,
+fully monitored, with off-site replication and tested runbooks: automation (n8n),
+observability (Prometheus/Grafana), documentation, CRM, private git with CI, and a
+local-first AI inference stack (Ollama, LiteLLM, WhisperX, Qdrant).
 
-## Featured repositories
+## Products and tools
 
-- [riera.co.uk](https://github.com/joanmarcriera/riera.co.uk) - personal site
-- [Home-office-automations](https://github.com/joanmarcriera/Home-office-automations) - practical automations and workflows
-- [image-to-excalidraw](https://github.com/joanmarcriera/image-to-excalidraw) - image-driven diagram tooling
-- [self-hosted-stack](https://github.com/joanmarcriera/self-hosted-stack) - self-hosted infrastructure work
-- [CXO-playbook](https://github.com/joanmarcriera/CXO-playbook) - leadership and operating playbooks
-- [upptime](https://github.com/joanmarcriera/upptime) - public uptime and status tracking
+- [Distavo](https://distavo.com): macOS menu-bar app; recordings become Markdown meeting notes via your own WhisperX and Ollama servers
+- Gemina VPN: macOS dual-uplink reliability tool; calls and SSH survive a network blip
+- [Grid capacity map](https://grid.joanmarcriera.es): screening tool for Spanish grid connection capacity (REE and DSO data)
+- [CNCraft](https://cnc.riera.co.uk): prompt to CNC-ready output (SVG, DXF, plotter, G-code)
+- [Image to Excalidraw](https://i2e.riera.co.uk): diagram screenshots become editable scenes
 
-## Curated star lists
+## Elsewhere
 
-- [AI / Agents](https://github.com/stars/joanmarcriera/lists/ai-agents)
-- [Finance / Trading](https://github.com/stars/joanmarcriera/lists/finance-trading)
-- [Tools](https://github.com/stars/joanmarcriera/lists/tools)
-- [My stack](https://github.com/stars/joanmarcriera/lists/my-stack)
-
-## More
-
-- Advisory entry point: [riera.co.uk](https://riera.co.uk)
-- CV: [cv.riera.co.uk](https://cv.riera.co.uk)
+- [riera.co.uk](https://riera.co.uk): portfolio and entry point
+- [cv.riera.co.uk](https://cv.riera.co.uk): background in full
+- [LinkedIn](https://www.linkedin.com/in/joanmarcriera)
